@@ -1,0 +1,16 @@
+{
+  "name": "thanks-md",
+  "version": "1.0.0",
+  "description": "where people comment and say how the project helped them",
+  "license": "MIT",
+  "repository": "https://github.com/paulmolluzzo/thanks-md",
+  "author": {
+    "name": "Paul Molluzzo",
+    "email": "paul@molluzzo.com",
+    "url": "https://paul.molluzzo.com"
+  },
+  "keywords": [
+    "thanks",
+    "open source"
+  ]
+}

@@ -1,0 +1,4 @@
+* text=auto
+*.js text eol=lf
+README.md merge=union
+THANKS.md merge=union
