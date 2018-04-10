@@ -29,7 +29,7 @@ Paste the line below into your markdown file.
 
 ## Tips
 
-Add `THANKS.md merge=union` to your repositorys `.gitattributes` file to avoid benign merge conflicts.
+Add `THANKS.md merge=union` to your repository's `.gitattributes` file to avoid benign merge conflicts.
 
 ## Install
 
@@ -37,4 +37,4 @@ There's nothing to install.
 
 ## License
 
-MIT © [Paul Molluzzo](https://paul.molluzzo.com)
+MIT Â© [Paul Molluzzo](https://paul.molluzzo.com)
